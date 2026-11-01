@@ -1,0 +1,18 @@
+<resources>
+    <string name="next">Следующий фильм</string>
+    <string name="reset">Начать заново</string>
+    <string name="warning">Все фильмы показаны</string>
+    <string-array name="movies">
+        <item>Начало</item>
+        <item>Шоу Трумана</item>
+        <item>Обсессия</item>
+        <item>Закулисья реальности</item>
+        <item>Minecraft в кино</item>
+        <item>Суперперцы</item>
+        <item>Скотт Пилигрим против всех</item>
+        <item>Смайл</item>
+        <item>Реинкарнация</item>
+        <item>Солнцестояние</item>
+    </string-array>
+    <string name="app_name">СлучайныйФильм</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movies">
+        <item>Inception</item>
+        <item>Truman Show</item>
+        <item>Obsession</item>
+        <item>Backrooms</item>
+        <item>Minecraft Movie</item>
+        <item>Superbad</item>
+        <item>Scott Pilgrim VS the World</item>
+        <item>Smile</item>
+        <item>Hereditary</item>
+        <item>Midsommar</item>
+    </string-array>
+    <string name="next">Next Movie</string>
+    <string name="warning">All movies have been shown</string>
+    <string name="reset">Start Over</string>
+    <string name="app_name">RandomMovieApp</string>
+</resources>
